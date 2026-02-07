@@ -1,3 +1,10 @@
+![Status](https://img.shields.io/badge/status-active-success.svg)
+![Domain](https://img.shields.io/badge/domain-Sports%20Analytics%20%7C%20ML-blue.svg)
+![Warehouse](https://img.shields.io/badge/warehouse-DuckDB-orange.svg)
+![Python](https://img.shields.io/badge/python-3.11+-blue.svg)
+![dbt](https://img.shields.io/badge/dbt-1.5+-orange.svg)
+![DuckDB](https://img.shields.io/badge/DuckDB-0.9+-yellow.svg)
+<br />
 [GitHub](https://github.com/dec1costello) | [Kaggle](https://www.kaggle.com/dec1costello) | [LinkedIn](https://www.linkedin.com/in/declan-costello-7423aa137/)
 <br />
 Author: Declan Costello
