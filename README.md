@@ -23,8 +23,6 @@ These sources estimate **how often a jersey logo is seen.**
 - National broadcast schedules
 - Playoff appearances
 - Minutes played in nationally televised games
-- Sports Business Journal (SBJ) sponsorship databases
--USA Today sports financial datasets
 
 ### Digital Attention
 These sources estimate **fan engagement and brand visibility.**
@@ -45,6 +43,5 @@ These sources estimate **organizational scale and sponsorship economics.**
 - IRS Form 990 (Nonprofit Organizations)
     - IRS Section 501(c)(3) nonprofit organizations
 - Schedule 14A (Proxy Statements)
-- USA Today College Athletics Database
-- SBJ Database
- 
+- USA Today Database
+- Sports Business Journal (SBJ) sponsorship databases
