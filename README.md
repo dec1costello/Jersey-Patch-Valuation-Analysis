@@ -9,6 +9,14 @@
 <br />
 Author: Declan Costello
 
+<a name="readme-top"></a>
+
+
+<p align="center">
+<img height="263" width="186" src="https://github.com/user-attachments/assets/6f1f8702-63d8-4615-9896-92802f8cd841"/>  
+
+</p>
+
 <h1 align="center">Jersey Patch Valuation Analysis</h1>
 
 **Business Objective:** Create a replicable valuation framework that converts qualitative visibility into quantitative financial insights. By modeling the relationship between exposure and engagement, we can estimate the expected value of sponsorship assets across any professional sports market.
