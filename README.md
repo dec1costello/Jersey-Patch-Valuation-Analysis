@@ -1,17 +1,33 @@
-# Jersey-Patch-Valuation-Analysis
+![Status](https://img.shields.io/badge/status-active-success.svg)
+![Domain](https://img.shields.io/badge/domain-Sports%20Analytics%20%7C%20ML-blue.svg)
+![Warehouse](https://img.shields.io/badge/warehouse-DuckDB-orange.svg)
+![Python](https://img.shields.io/badge/python-3.11+-blue.svg)
+![dbt](https://img.shields.io/badge/dbt-1.5+-orange.svg)
+![DuckDB](https://img.shields.io/badge/DuckDB-0.9+-yellow.svg)
+<br />
+[GitHub](https://github.com/dec1costello) | [Kaggle](https://www.kaggle.com/dec1costello) | [LinkedIn](https://www.linkedin.com/in/declan-costello-7423aa137/)
+<br />
+Author: Declan Costello
 
-This project estimates the market value of sponsor logo placement on sports jerseys using a data-driven exposure and brand-visibility model.
+<a name="readme-top"></a>
 
-Rather than relying on negotiated deal values alone, this project attempts to predict fair sponsorship pricing using observable signals such as:
 
-- Media exposure
-- Team popularity
-- Market size
-- Digital engagement
-- Financial disclosures
-- Comparable sponsorship deals
+<p align="center">
+<img height="263" width="186" src="https://github.com/user-attachments/assets/6f1f8702-63d8-4615-9896-92802f8cd841"/>  
 
-The goal is to build a replicable valuation framework that can estimate the expected dollar value of a jersey patch sponsorship across leagues, teams, and markets.
+</p>
+
+<h1 align="center">Jersey Patch Valuation Analysis</h1>
+
+**Business Objective:** Create a replicable valuation framework that converts qualitative visibility into quantitative financial insights. By modeling the relationship between exposure and engagement, we can estimate the expected value of sponsorship assets across any professional sports market.
+
+**Key Observable Signals:**
+- ✅ **Media exposure**
+- ✅ **Team popularity**
+- ✅ **Market size**
+- ✅ **Digital engagement**
+- ✅ **Financial disclosures**
+- ✅ **Comparable sponsorship deals**
 
 > Sponsorship Value ≈ Exposure × Audience Quality × Brand Visibility × Market Strength
 
