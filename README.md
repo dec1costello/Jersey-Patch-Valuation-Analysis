@@ -57,7 +57,7 @@ These sources estimate **sponsor market reach.**
 ### Financial Disclosures
 These sources estimate **organizational scale and sponsorship economics.**
 - IRS Form 990 (Nonprofit Organizations)
-    - IRS Section 501(c)(3) nonprofit organizations
+    - Section 501(c)(3)
 - Schedule 14A (Proxy Statements)
 - USA Today Database
 - Sports Business Journal (SBJ) sponsorship databases
