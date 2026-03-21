@@ -35,7 +35,7 @@ Author: Declan Costello
 
 ### Media Exposure
 These sources estimate **how often a jersey logo is seen.**
-- Nielsen TV ratings data (game viewership)
+- [Nielsen](https://www.nielsen.com/data-center/top-ten/) TV ratings data (game viewership)
 - National broadcast schedules
 - Playoff appearances
 - Minutes played in nationally televised games
